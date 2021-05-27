@@ -1,0 +1,25 @@
+<body>
+    <section id="hero">
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
+                   <div data-aos="zoom-out">
+                        <h1>
+                            Procure sua nave dos sonhos com <span>RocketZz
+                        <h2>
+                            Venda, Compre e Navegue
+                    <div class="text-center text-lg-start">
+                        <a href=@{SobreR} class="btn-get-started scrollto">
+                            Comece
+
+                <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
+                    <img src=@{StaticR img_foguete_png} class="img-fluid animated" alt="foguete">
+
+
+    
+
+<h1 class="text-decoration-underline"> 
+    ola mundoooo
+<button onclick="ola()">
+    click
+

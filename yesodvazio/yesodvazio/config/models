@@ -1,0 +1,5 @@
+Nave
+    nome Text
+    preco Double
+    descr Textarea
+    deriving Show

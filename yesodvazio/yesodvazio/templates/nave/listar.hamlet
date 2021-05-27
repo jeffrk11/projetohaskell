@@ -1,0 +1,22 @@
+<table>
+    <thead>
+        <tr>
+            <th>
+                Nome 
+            <th>
+                Preco
+            <th>
+                Descricao
+    <tbody>
+        $forall Entity pid nave <- naves
+            <tr>
+                <td>
+                    <a href=@{CatalogoR pid}>
+                        #{naveNome nave}
+                <td>
+                    #{navePreco nave}
+                <td>
+                    #{naveDescr nave}
+                <td>
+                    <form method=post action=@{ApagarNaveR pid}>
+                        <input type="submit" value="X">
